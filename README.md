@@ -1,5 +1,6 @@
 # rboutique-intro
 mboutique reacted
+If you are going to contribute to this project please fork/branch off of develop rather than master. Develop will be used to test any changes and conflicts. Any pull requests into master will be deleted.
 
 # Learning modules
 ## 1. react.js
