@@ -9,7 +9,7 @@ import {
 
 import heroImage from './assets/images/welcome-image.png';
 
-Class App extends Component {
+class App extends Component {
     render() {
         return (
             <div className="App">
