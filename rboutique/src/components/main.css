@@ -1,7 +1,7 @@
 .main {
   display: flex;
   flex-direction: row;
-  width: 1000px;
+  width: 100%;
 }
 
 .side-image {
