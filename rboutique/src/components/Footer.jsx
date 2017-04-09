@@ -16,7 +16,7 @@ const Footer = props => (
               </a>
           </div>
       </div>
-      <div className="info-ctr">
+      <div className="info-ctr copyright-ctr">
           <div className="img-ctr">
               <img src={ Phone } alt=""/>
           </div>
@@ -29,7 +29,7 @@ const Footer = props => (
               Copyright Mboutique. All rights reserved.
           </div>
       </div>
-      <div className="info-ctr">
+      <div className="info-ctr social-media">
           <div className="text-ctr">
               Follow us
           </div>

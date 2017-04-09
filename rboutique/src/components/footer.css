@@ -21,10 +21,16 @@
 	align-items: center;
 }
 
+.info-ctr.social-media .img-ctr{
+	margin-right: 5%;
+}
+
+.info-ctr.social-media .text-ctr{
+	margin-right: 3%;
+}
 .img-ctr {
 	display: flex;
-	height: 15px;
-	margin-right: 1%;
+	margin-right: 3%;
 }
 
 .text-ctr {
@@ -36,7 +42,10 @@
 	text-decoration: none;
 }
 
-.copyright {
-	display: block;
+.copyright-ctr {
 	flex-wrap: wrap;
+}
+
+.copyright {
+	width: 100%;
 }
